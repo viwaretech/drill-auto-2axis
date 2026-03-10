@@ -156,9 +156,9 @@ The PLC is responsible for:
 # 🚀 Download
 
 - **Drill Servo 2 Axis Project(Latest)**  
-   ![Release](https://img.shields.io/github/v/release/viwaretech/drill-servo-2axis?display_name=release&label=Release&style=flat) ![Version](https://img.shields.io/github/v/release/viwaretech/drill-servo-2axis?display_name=tag&label=Version&style=flat&color=4CAF50) ![Build](https://img.shields.io/badge/Project%20date-20260309-E7352C)<br>
-  ➡️ [Release Page](https://github.com/viwaretech/drill-servo-2axis/releases/latest)  
-   ➡️ [Download Project](https://github.com/viwaretech/drill-servo-2axis/releases/latest/download/drill-servo-2axis.zip)
+   ![Release](https://img.shields.io/github/v/release/viwaretech/drill-auto-2axis?display_name=release&label=Release&style=flat) ![Version](https://img.shields.io/github/v/release/viwaretech/drill-auto-2axis?display_name=tag&label=Version&style=flat&color=4CAF50) ![Build](https://img.shields.io/badge/Project%20date-20260309-E7352C)<br>
+  ➡️ [Release Page](https://github.com/viwaretech/drill-auto-2axis/releases/latest)  
+   ➡️ [Download Project](https://github.com/viwaretech/drill-auto-2axis/releases/latest/download/drill-auto-2axis.zip)
 
 ---
 
